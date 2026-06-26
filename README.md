@@ -1,5 +1,5 @@
 #url proyek
-https://github.com/zyeanrevan1-del/project-html-pertama/blob/main/Cv_saya.html
+https://zyeanrevan1-del.github.io/project-html-pertama/
 
 <!doctype html>
 <html lang="id">
