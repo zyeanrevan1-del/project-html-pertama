@@ -1,3 +1,6 @@
+#url proyek
+https://github.com/zyeanrevan1-del/project-html-pertama/blob/main/Cv_saya.html
+
 <!doctype html>
 <html lang="id">
 
